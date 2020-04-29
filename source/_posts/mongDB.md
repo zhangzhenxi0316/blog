@@ -145,6 +145,7 @@ Course.updataMany({查询条件},{要修改的值}).then(result=>{})  //更新�
 在创建集合规则时可以设置当前字段的验证规则，验证失败就输入验证失败
 使用将验证规则放在对象中传给属性
 required:true  必传字段
+unique:true   传入数据库验证是否有同值的如果有同值属性，报错
 minlength:2    最小长度2
 maxlength:5    最大长度5
 min:2 数值最小为2
