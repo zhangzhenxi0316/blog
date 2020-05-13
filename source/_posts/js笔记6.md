@@ -1,9 +1,8 @@
 ---
-title: js笔记6
+title: 函数
 date: 2020-03-29 16:00:46
 tags:
     -js
-    -学习笔记
 categories: 前端
 ---
 ## 函数

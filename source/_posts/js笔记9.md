@@ -1,9 +1,8 @@
 ---
-title: js笔记9
+title: 正则
 date: 2020-04-01 18:46:18
 tags:
      -js
-     -学习笔记
 categories: 前端
 ---
 ## 模块化

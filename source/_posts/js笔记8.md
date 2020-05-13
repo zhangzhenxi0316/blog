@@ -1,9 +1,8 @@
 ---
-title: js笔记8
+title: json 原型 对象
 date: 2020-03-31 10:24:38
 tags: 
     -js
-    -学习笔记
 categories: 前端
 ---
 

@@ -2,6 +2,9 @@
 title: mongDB
 date: 2020-04-16 20:31:50
 tags:
+    -mongodb
+    -nodejs
+categories: 数据库
 ---
 ## 数据库的概述
 数据库可以用来永久持续存储客户端通过表单收集的用户信息

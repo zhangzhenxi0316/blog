@@ -1,15 +1,12 @@
 ---
-title: js笔记2
+title: js基础知识
 date: 2020-03-24 19:33:04
 tags:
-
-    - 学习笔记
     - js
 
 categories: 前端
 ---
 
-# 【javascript】最近从头开始巩固
 
 ## var let const
 

@@ -2,6 +2,8 @@
 title: mysql安装笔记mac
 date: 2020-04-22 21:06:22
 tags:
+    -mysql
+categories: 数据库
 ---
 ## mac安装sql
 1.官网安装社区版的

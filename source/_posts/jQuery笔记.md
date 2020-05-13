@@ -2,8 +2,6 @@
 title: jQuery学习笔记1
 date: 2020-03-23 21:21:20
 tags:
-
-    - 学习笔记
     - jQuery
 
 categories: 前端

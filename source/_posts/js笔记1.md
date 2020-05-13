@@ -1,15 +1,11 @@
 ---
-title: js笔记1
+title: 【javascript】 面向对象和类的继承
 date: 2020-03-24 09:48:36
 tags:
-
-    - 学习笔记
     - js
 
 categories: 前端
 ---
-
-# 【javascript】 面向对象和类的继承
 
 ## 类创建
 

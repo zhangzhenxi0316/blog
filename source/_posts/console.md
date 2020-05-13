@@ -2,8 +2,7 @@
 title: console
 date: 2020-03-26 18:59:04
 tags:
-    -js
-    -学习笔记
+    - js
 categories: 前端
 ---
 # console

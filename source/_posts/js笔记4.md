@@ -1,12 +1,11 @@
 ---
-title: js笔记4
+title:【javascript】日期与数组
 date: 2020-03-26 10:59:13
 tags:
-    - 学习笔记
     - js
 categories: 前端
 ---
-# 【javascript】日期与数组
+
 
 ## Math
 

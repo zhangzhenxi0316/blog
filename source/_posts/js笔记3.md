@@ -1,13 +1,11 @@
 ---
-title: js笔记3
+title: 【javascript】 基本数据类型
 date: 2020-03-25 12:50:48
 tags:
-    - 学习笔记
     - js
 categories: 前端
 ---
 
-# 【javascript】 基本数据类型
 
 ## 三元表达式
 
